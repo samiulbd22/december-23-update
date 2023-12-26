@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"December-23",
     previousMonth   :"November-23", // new add
     upComingMonth   :"January 1,2024",
-    runningMealRate :65,
+    runningMealRate :63,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -94,7 +94,7 @@ const members = {
         garage_cost     :0,
         running_payable :2284,
         running_paid    :4000,
-        running_meal    :11,
+        running_meal    :12,
         // method calling
         preMonth,
         runningDiningCost,
@@ -113,7 +113,7 @@ const members = {
         garage_cost     :20,
         running_payable :2784,
         running_paid    :3500,
-        running_meal    :24,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
@@ -132,7 +132,7 @@ const members = {
         garage_cost     :500,
         running_payable :3443,
         running_paid    :6000,
-        running_meal    :30,
+        running_meal    :32,
         // method calling
         preMonth,
         runningDiningCost,
@@ -151,7 +151,7 @@ const members = {
         garage_cost     :0,
         running_payable :4603,
         running_paid    :7000,
-        running_meal    :29,
+        running_meal    :30,
         // method calling
         preMonth,
         runningDiningCost,
@@ -170,7 +170,7 @@ const members = {
         garage_cost     :0,
         running_payable :3583,
         running_paid    :6500,
-        running_meal    :36,
+        running_meal    :38,
         // method calling
         preMonth,
         runningDiningCost,
@@ -189,7 +189,7 @@ const members = {
         garage_cost     :0,
         running_payable :4439,
         running_paid    :6000,
-        running_meal    :27,
+        running_meal    :28,
         // method calling
         preMonth,
         runningDiningCost,
@@ -208,7 +208,7 @@ const members = {
         garage_cost     :0,
         running_payable :6827,
         running_paid    :6000,
-        running_meal    :30,
+        running_meal    :31,
         // method calling
         preMonth,
         runningDiningCost,
